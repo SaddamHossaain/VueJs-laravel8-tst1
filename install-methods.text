@@ -1,0 +1,3 @@
+composer create-project laravel/laravel vuejs+laravel-test
+npm install
+npm install vue@next vue-loader@next //vuejs3 install
